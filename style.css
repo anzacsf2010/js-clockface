@@ -1,0 +1,10 @@
+.container {
+    text-align: center;
+    align-content: center;
+}
+p {
+    margin-top: 20px;
+}
+canvas {
+    margin-top: 30px;
+}
